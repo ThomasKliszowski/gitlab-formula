@@ -1,0 +1,4 @@
+gitlab:
+    url: "git.hostname.com"
+    mysql_password: "3dabf7f939924328b7368fa4150dca75"
+    nb_workers: 4
